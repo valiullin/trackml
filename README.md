@@ -1,4 +1,5 @@
 # trackml
+![trackml Image](https://storage.googleapis.com/kaggle-media/competitions/CERN/cern_graphic.png)
 
 To explore what our universe is made of, scientists at CERN are colliding protons, essentially recreating mini big bangs, and meticulously observing these collisions with intricate silicon detectors.  
 
